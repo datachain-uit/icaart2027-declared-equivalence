@@ -1,0 +1,8 @@
+property,classes,cases_run,cases_passed,divergences,source
+injectivity,13,2600,2600,0,derived
+refusal,8,1600,1600,0,derived
+determinism,1,260,260,0,derived
+domain_separation,1,200,200,0,derived
+differential_a0,12,2000,1400,600,derived
+benchmark_reach,1,2142,2142,0,derived
+differential_a0_comparable,10,2000,1400,600,derived

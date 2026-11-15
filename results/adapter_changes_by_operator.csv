@@ -1,0 +1,11 @@
+operator,n,changes_a0_relation,m_map,m_canon,m_struct,rules_total,rules_min,rules_max,m_test,m_loc,m_loc_min,m_loc_max,source
+ADD_FIELD,400,yes,1,0,0,1,1,1,2,7,7,7,derived
+CHANGE_COLLECTION_REPRESENTATION,42,no,1,0,1,2,2,2,1,1,1,1,derived
+CHANGE_DATE_FORMAT,340,no,0,1,0,1,1,1,2,1,1,1,derived
+CHANGE_OPTIONALITY,400,no,0,0,1,1,1,1,2,1,1,1,derived
+CHANGE_STRING_NORMALIZATION,400,no,0,1,0,1,1,1,2,1,1,1,derived
+CHANGE_TYPE,364,no,0,0,1,1,1,1,2,1,1,1,derived
+MOVE_PATH,400,no,1,0,1,2,2,2,1,1,1,1,derived
+REMOVE_FIELD,400,yes,1,0,0,1,1,1,1,7,7,7,derived
+RENAME_FIELD,400,no,1,0,0,1,1,1,1,1,1,1,derived
+REORDER_FIELDS,400,no,0,0,0,0,0,0,0,0,0,0,derived

@@ -1,0 +1,4 @@
+ambiguity_class,direction,cases,declared_condition,consequence_category,status,source
+date-format,separate,200,declared equivalent: two declared formats denoting the same calendar date,equivalent representations map to different commitments (declared-equivalent record fails to verify),compared,derived
+trim-policy,separate,200,declared equivalent only where trim is declared for that field,equivalent representations map to different commitments (declared-equivalent record fails to verify),compared,derived
+unicode-normalisation,separate,200,declared equivalent: strings are compared after NFC,equivalent representations map to different commitments (declared-equivalent record fails to verify),compared,derived

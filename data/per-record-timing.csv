@@ -1,0 +1,3 @@
+architecture,backend,depth,reps,canonicalize_ms,canonicalize_q1,canonicalize_q3,commitment_ms,commitment_q1,commitment_q3,prove_ms,prove_q1,prove_q3,verify_ms,verify_q1,verify_q3,total_ms,total_q1,total_q3
+A1,Groth16,11,10,0.175,0.173,0.260,0.453,0.441,0.461,155.1,153.0,156.5,6.2,6.1,6.3,161.4,160.0,164.3
+A1,PLONK,11,5,0.223,0.215,0.232,0.489,0.488,0.492,9511.7,9490.2,9518.4,7.8,7.8,7.9,9520.2,9498.7,9527.1

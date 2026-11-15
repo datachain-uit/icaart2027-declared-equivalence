@@ -1,0 +1,4 @@
+case_id,expected_decision,observed_decision,as_expected
+invalid-canonicalization,reject,reject,true
+changed-field-order,accept,accept,true
+invalid-nonce,reject,reject,true

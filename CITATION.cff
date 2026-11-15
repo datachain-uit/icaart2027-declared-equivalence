@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the paper below."
+title: "Interpreting Structured Records Outside the Proof: Declared Equivalence for Privacy-Preserving Verification under Schema Evolution: data and analysis"
+authors:
+  - family-names: Vo
+    given-names: Khoa Tan
+    orcid: "https://orcid.org/0000-0002-5343-1686"
+  - family-names: Nguyen
+    given-names: Hong-Tri
+    orcid: "https://orcid.org/0000-0001-6483-0829"
+  - family-names: Nguyen-Hoang
+    given-names: Tu-Anh
+    orcid: "https://orcid.org/0000-0001-9283-769X"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Interpreting Structured Records Outside the Proof: Declared Equivalence for Privacy-Preserving Verification under Schema Evolution"
+  authors:
+    - family-names: Vo
+      given-names: Khoa Tan
+    - family-names: Nguyen
+      given-names: Hong-Tri
+    - family-names: Nguyen-Hoang
+      given-names: Tu-Anh
+  collection-title: "Proceedings of the 19th International Conference on Agents and Artificial Intelligence (ICAART 2027)"
+  publisher:
+    name: SCITEPRESS
+  year: 2027

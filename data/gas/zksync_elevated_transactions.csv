@@ -1,0 +1,14 @@
+session,date,backend,run_in_session,operation,position,first_tx_of_account_in_run,gas,reference_gas,excess_over_reference
+S1,2026-08-11,Groth16,1,deploy_verifier,1,True,142246,138312,3934
+S1,2026-08-11,Groth16,1,publish_root,1,True,95775,87949,7826
+S1,2026-08-11,Groth16,1,verify,1,True,96679,88853,7826
+S1,2026-08-11,Groth16,9,verify,6,False,103441,89401,14040
+S1,2026-08-11,Groth16,10,deploy_verifier,1,True,142345,138312,4033
+S2,2026-08-12,PLONK,1,deploy_verifier,1,True,336988,318981,18007
+S2,2026-08-12,PLONK,1,publish_root,1,True,102564,88491,14073
+S2,2026-08-12,PLONK,1,verify,1,True,104772,90705,14067
+S3,2026-08-13,Groth16,1,deploy_verifier,1,True,158356,138220,20136
+S3,2026-08-13,Groth16,1,publish_root,1,True,102538,88491,14047
+S3,2026-08-13,Groth16,1,verify,1,True,103442,89401,14041
+S3,2026-08-13,PLONK,6,deploy_verifier,1,True,323002,318872,4130
+S3,2026-08-13,PLONK,6,verify,1,True,104756,90705,14051
