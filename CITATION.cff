@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these data or scripts, please cite the paper below."
-title: "Interpreting Structured Records Outside the Proof: Declared Equivalence for Privacy-Preserving Verification under Schema Evolution: data and analysis"
+title: "Interpreting Structured Records Outside the Proof: Declared Equivalence for Privacy-Preserving Verification Under Schema Evolution: data and analysis"
 authors:
   - family-names: Vo
     given-names: Khoa Tan
@@ -14,7 +14,7 @@ authors:
 license: MIT
 preferred-citation:
   type: conference-paper
-  title: "Interpreting Structured Records Outside the Proof: Declared Equivalence for Privacy-Preserving Verification under Schema Evolution"
+  title: "Interpreting Structured Records Outside the Proof: Declared Equivalence for Privacy-Preserving Verification Under Schema Evolution"
   authors:
     - family-names: Vo
       given-names: Khoa Tan

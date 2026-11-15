@@ -1,9 +1,9 @@
-# Declared Equivalence for Privacy-Preserving Verification under Schema Evolution: data and analysis
+# Declared Equivalence for Privacy-Preserving Verification Under Schema Evolution: data and analysis
 
 This repository contains the data and the analysis scripts behind the numbers reported in
 
 > Khoa Tan Vo, Hong-Tri Nguyen and Tu-Anh Nguyen-Hoang. *Interpreting Structured Records Outside the
-> Proof: Declared Equivalence for Privacy-Preserving Verification under Schema Evolution.* In Proceedings
+> Proof: Declared Equivalence for Privacy-Preserving Verification Under Schema Evolution.* In Proceedings
 > of the 19th International Conference on Agents and Artificial Intelligence (ICAART 2027), SCITEPRESS.
 
 The paper compares two pipelines for zero-knowledge membership verification of structured records:
